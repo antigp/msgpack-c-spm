@@ -1,0 +1,4 @@
+module msgpack_cpp [system] {
+  umbrella header "msgpack.hpp"
+  export *
+}

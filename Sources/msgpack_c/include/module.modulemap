@@ -1,0 +1,4 @@
+module msgpack_c [system] {
+  umbrella header "msgpack.h"
+  export *
+}
